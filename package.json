@@ -2,11 +2,12 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "yahoo-japan-weather",
   "title": "Yahoo! JAPAN Weather",
-  "description": "An extension for Yahoo! JAPAN Weather",
+  "description": "Check Yahoo! JAPAN Weather from Raycast",
   "icon": "yahoo.png",
   "author": "peiming_wu",
   "categories": [
-    "News"
+    "News",
+    "Web"
   ],
   "license": "MIT",
   "commands": [
